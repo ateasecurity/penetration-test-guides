@@ -6,8 +6,5 @@ https://www.truesec.com/hub/blog/from-stranger-to-da-using-petitpotam-to-ntlm-re
 ## Using PetitPotam to NTLM Relay to obtain Silver Tickets
 https://blog.zsec.uk/chasing-the-silver-petit-potam/
 
-## Great Hacker Recipes
-https://www.thehacker.recipes/
-
-## Lots of recipes
-https://book.hacktricks.xyz/welcome/readme
+## Setup a rouge RDP server to access resources on the connecting client
+https://www.blackhillsinfosec.com/rogue-rdp-revisiting-initial-access-methods/
